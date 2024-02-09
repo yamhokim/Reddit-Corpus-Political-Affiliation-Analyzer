@@ -40,18 +40,3 @@ This project aims to predict a user's political affiliation by analyzing their p
     ```bash
     cd political-affiliation-prediction
     ```
-
-5. **Install the required libraries:**
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-6. **Run the preprocessing script to clean and format the social media corpus data.**
-
-7. **Implement the feature extractor to gather relevant information from each post.**
-
-8. **Create feature-based classifiers using machine learning algorithms provided by scikit-learn.**
-
-9. **Fine-tune the POLITICS language model for neural classification.**
-
-10. **Compare the performance of feature-based and neural classifiers using evaluation metrics.**
