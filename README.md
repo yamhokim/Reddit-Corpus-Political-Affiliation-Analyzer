@@ -40,3 +40,4 @@ This project aims to predict a user's political affiliation by analyzing their p
     ```bash
     cd political-affiliation-prediction
     ```
+NOTE: None of the .npy files used in the code are available due to size constraints.
